@@ -1,4 +1,4 @@
-# Neurocomputing2021 - MFIF_Based_on_DCT-master
+# MFIF_Based_on_DCT-master
 
 Implementation of [A focus measure in discrete cosine transform domain for multi-focus image fast fusion] in matlab
 
