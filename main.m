@@ -27,8 +27,8 @@ DC1=Y1.*quantDC;
 DC2=Y2.*quantDC;
 
 mat=zeros(block_size,block_size);
-for i=1:2
-    for j=1:2
+for i=1:block_size
+    for j=1:block_size
         if (i+j<=p)
             mat(i,j)=1;
         end
