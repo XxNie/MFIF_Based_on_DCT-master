@@ -2,10 +2,10 @@
 
 Implementation of [A focus measure in discrete cosine transform domain for multi-focus image fast fusion] in matlab
 
-#sourceimages
+#sourceimages.
 This file contains the Lytro and Nature datasets
 
-#JPEGread
+#JPEGread.
 This file contains dependency files for reading images in JPEG format.
 
 If you find our model/method/dataset useful, please consider citing:
